@@ -35,7 +35,7 @@ INTERNAL_IPS = [
 ]
 
 NPM_BIN_PATH="/usr/bin/npm"
-#NPM_BIN_PATH = r"C:\Program Files (x86)\nodejs\npm.cmd"
+# NPM_BIN_PATH = r"C:\Program Files (x86)\nodejs\npm.cmd"
 
 EMAIL_HOST_USER='mail@vudera.com'
 
