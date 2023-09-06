@@ -5,5 +5,5 @@ app_name="newsletters"
 
 urlpatterns = [
     path('entrenamiento/', newsletter_signUp, name="optin"),
-    path('unsubscribe/', newsletter_unsubscribe, name="unsubscribe"),
+    path('unsubscribe/', newsletter_unsubscribe, name="unsubscribe")
 ]
